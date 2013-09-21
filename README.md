@@ -1,43 +1,43 @@
-Towns++ v13a3 (for Towns v13a)
+# Towns++ v13a3 (for Towns v13a) #
 
-==============================
-NOT a MODLOADER mod. DO NOT INSTALL in .towns/mods!
-===================================================
+***Note: NOT a MODLOADER mod. DO NOT INSTALL in .towns/mods!***
 
 
-Changes since Towns++_v13a1
-===========================
-BlueSteel's Contributions
-=========================
--> Added Niranufoti's Spiral Staircase mod (edited to fit with rest of Towns++ now takes 3 wood)
+## Changes since Towns++_v13a1 ##
+
+### BlueSteel's Contributions
+
+- Added Niranufoti's Spiral Staircase mod (edited to fit with rest of Towns++ now takes 3 wood)
     
-LittleMikey's Contributions:
-============================
--> Re-added gatheringharvesting priority from vanilla, renamed it to "Breeding" and assigned it to
+### LittleMikey's Contributions:
+
+- Re-added gatheringharvesting priority from vanilla, renamed it to "Breeding" and assigned it to
    breeding animals. This will mean all your other Towns mods should be compatible now.
--> Re-added buildings priority. This should stop vanilla saves crashing. However the priority isn't
+- Re-added buildings priority. This should stop vanilla saves crashing. However the priority isn't
    used by anything in Towns++ currently so it's at the bottom of the priority order.
--> Fixed crashes/errors with Gifts.
+- Fixed crashes/errors with Gifts.
    
-To install:
-============
+## To install:
+
 1. Backup your Towns Folder/Directory. This is usually C:\Program Files (x86)\Steam\SteamApps\common\towns
    if you installed the game through Steam. (I'm not responsible for any losses or damages)
 2. Copy the contents of the Towns++ zip into your main Towns Folder/Directory.
 3. Launch Towns as normal!
 4. As always feel free to leave comments, bug reports, suggestions.
 
-Stable Download -> https://github.com/BlueSteelAUS/Towns-plus-plus/archive/13a3.zip
-Unstable Download -> https://github.com/BlueSteelAUS/Towns-plus-plus/archive/master.zip
-NOTE: the unstable Download is always in a state of flux you take your changes with the absolute latest under development version of the Townms++
+[Stable Download: https://github.com/BlueSteelAUS/Towns-plus-plus/archive/13a3.zip](https://github.com/BlueSteelAUS/Towns-plus-plus/archive/13a3.zip)
+[Latest Edge Download (*UNSTABLE!*): https://github.com/BlueSteelAUS/Towns-plus-plus/archive/master.zip](https://github.com/BlueSteelAUS/Towns-plus-plus/archive/master.zip)
+***NOTE**: the unstable Download is always in a state of flux you take your changes with the absolute latest under development version of the Townms++*
 
-My Live streaming is at http://www.twitch.tv/bluesteelaus
-My YouTube play list for Towns : http://www.youtube.com/playlist?list=PL388A502D490AE834
+## Additional Links
 
-Neen's Towns lets play , using this mod: http://www.youtube.com/watch?v=ZjWw0eiQpZc
+- [My Live streaming](http://www.twitch.tv/bluesteelaus)
+- [My YouTube playlist for Towns](http://www.youtube.com/playlist?list=PL388A502D490AE834)
+- [Neen's Towns lets play, using this mod](http://www.youtube.com/watch?v=ZjWw0eiQpZc)
 
 More videos and live streams will be done as time permits
-[/quote]
+
+---
 
 Welcome to the longest running and I believe still one of the best and largest mod for Towns.
 
